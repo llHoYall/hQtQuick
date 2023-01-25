@@ -1,0 +1,5 @@
+
+pylint
+black
+pyqt6
+pyinstaller
